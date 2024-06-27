@@ -1,4 +1,4 @@
-From tomcat:8-jre8 
+FROM tomcat:8-jre8 
 
 MAINTAINER "DevOps Team"
 
